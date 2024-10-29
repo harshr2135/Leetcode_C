@@ -1,3 +1,5 @@
+//Time Complexity: O(n)
+
 void stack_func(char* ch, char* stack){         //func to perform the operation on s and t
     int top = -1;
     for(int i = 0; ch[i]!='\0'; i++){
